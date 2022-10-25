@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification</string>
+    <string name="CHANNEL_ID">uzbchannel</string>
+    <string name="NAME">uznotification</string>
+</resources>
